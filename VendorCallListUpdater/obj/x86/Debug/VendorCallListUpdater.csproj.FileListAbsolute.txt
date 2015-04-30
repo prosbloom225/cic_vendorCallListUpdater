@@ -1,0 +1,21 @@
+c:\documents and settings\tk93053\my documents\visual studio 2010\Projects\VendorCallListUpdater\VendorCallListUpdater\bin\Debug\VendorCallListUpdater.exe
+c:\documents and settings\tk93053\my documents\visual studio 2010\Projects\VendorCallListUpdater\VendorCallListUpdater\bin\Debug\VendorCallListUpdater.pdb
+c:\documents and settings\tk93053\my documents\visual studio 2010\Projects\VendorCallListUpdater\VendorCallListUpdater\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\tk93053\my documents\visual studio 2010\Projects\VendorCallListUpdater\VendorCallListUpdater\obj\x86\Debug\VendorCallListUpdater.Form1.resources
+c:\documents and settings\tk93053\my documents\visual studio 2010\Projects\VendorCallListUpdater\VendorCallListUpdater\obj\x86\Debug\VendorCallListUpdater.Properties.Resources.resources
+c:\documents and settings\tk93053\my documents\visual studio 2010\Projects\VendorCallListUpdater\VendorCallListUpdater\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\tk93053\my documents\visual studio 2010\Projects\VendorCallListUpdater\VendorCallListUpdater\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\tk93053\my documents\visual studio 2010\Projects\VendorCallListUpdater\VendorCallListUpdater\obj\x86\Debug\VendorCallListUpdater.exe
+c:\documents and settings\tk93053\my documents\visual studio 2010\Projects\VendorCallListUpdater\VendorCallListUpdater\obj\x86\Debug\VendorCallListUpdater.pdb
+C:\osieckim\projects\VendorCallListUpdater\VendorCallListUpdater\obj\x86\Debug\VendorCallListUpdater.exe
+C:\osieckim\projects\VendorCallListUpdater\VendorCallListUpdater\obj\x86\Debug\VendorCallListUpdater.pdb
+C:\osieckim\projects\VendorCallListUpdater\VendorCallListUpdater\bin\Debug\VendorCallListUpdater.exe
+C:\osieckim\projects\VendorCallListUpdater\VendorCallListUpdater\bin\Debug\VendorCallListUpdater.pdb
+C:\osieckim\projects\VendorCallListUpdater\VendorCallListUpdater\obj\x86\Debug\VendorCallListUpdater.Form1.resources
+C:\osieckim\projects\VendorCallListUpdater\VendorCallListUpdater\obj\x86\Debug\VendorCallListUpdater.Properties.Resources.resources
+C:\osieckim\projects\VendorCallListUpdater\VendorCallListUpdater\bin\Debug\VendorCallListUpdater.exe.config
+C:\osieckim_bak\projects\VendorCallListUpdater\VendorCallListUpdater\bin\Debug\VendorCallListUpdater.exe.config
+C:\osieckim_bak\projects\VendorCallListUpdater\VendorCallListUpdater\obj\x86\Debug\VendorCallListUpdater.exe
+C:\osieckim_bak\projects\VendorCallListUpdater\VendorCallListUpdater\obj\x86\Debug\VendorCallListUpdater.pdb
+C:\osieckim\projects\VendorCallListUpdater\VendorCallListUpdater\obj\x86\Debug\VendorCallListUpdater.csprojResolveAssemblyReference.cache
+C:\osieckim\projects\VendorCallListUpdater\VendorCallListUpdater\obj\x86\Debug\VendorCallListUpdater.csproj.GenerateResource.Cache
